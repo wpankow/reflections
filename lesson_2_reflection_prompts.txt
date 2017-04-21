@@ -15,7 +15,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When you want to do experimental work and not affect the current master branch development. Also when you'd like to work on a different development line which runs parallel to the master. Branches help to separate but still keep organized the different endeavors.
+
 How do the diagrams help you visualize the branch structure?
+
+	They make it easy to see how they all relate to one another and let you draw lines backwards to see reachability.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
