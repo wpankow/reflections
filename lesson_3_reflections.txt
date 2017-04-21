@@ -18,8 +18,8 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    
+    I would use another SCM such as Subversion. It would be easier to understand but harder to detach from server infrastructure.
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    
+    Whenever you don't want to affect a stable product or environment and other collaborators or users. Branches are good for a variety of changes by many people working at their own pace. Pushing directly to master may have the convenience of being fast in delivery and sharing.
