@@ -7,22 +7,19 @@ automatically stay up-to-date with your remote repository?
 
     You may not want those changes made yet to the versions on which you are working. If you take a long time between edits, you could be confused or overwhelmed with the added information.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    A fork is a personal copy of another repository. It is a separate entity and diverges without affecting the original, while still giving credit to the source. Clones are copies of repositories on which co-deveopment is being done and they interact and update one another. A branch is a separate line of development within a repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Helps if you want to refer to any changes going on when you are not regularly synching back with collaborators.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    
