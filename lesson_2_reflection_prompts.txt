@@ -26,5 +26,6 @@ the diagram the way we do?
 
 	THe result is a combination of changes made witin each branch. It is represented in the diagram to show that the latest commit has 2 parents which can be referenced.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Automatic merging helps speed along the process when changes do not conflict. Automatic merging can get it wrong if chnages both affect different areas but are perhaps in different places and GIt does not recognize the significance.
